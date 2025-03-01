@@ -55,10 +55,5 @@ Since this project was created with limited knowledge, there are several areas f
 
 ---
 
-## 📜 License
-This project is open-source. Feel free to modify and improve it as you wish! 😊
-
----
-
 ### ⭐ If you liked this project, consider giving it a star on GitHub! ⭐
 
