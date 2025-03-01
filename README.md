@@ -1,9 +1,9 @@
 # CarInfo - My First Web Development Project
 
 ## 📌 Introduction
-As soon as I entered my 2nd semester, I had a subject called **Fundamentals of Web Technology**, where I was introduced to **HTML**. My friends encouraged me to try something big, and that led to the idea of creating my **first web development project** in college.
+As soon as I entered my 2nd semester, I had a subject called **Fundamentals of Web Technology**, where I was introduced to **HTML**. My friends, **Soumya** and **Yashpreet**, encouraged me to try something big, and that led to the idea of creating my **first web development project** in college.
 
-At that time, my friends **Somya**, **Yashpreet**, and I only knew **HTML** and **frames** in HTML. We had no knowledge of CSS, JavaScript, or backend development. However, we were determined to build something interesting, so we created **CarInfo**, a simple yet effective website that showcases car details using just HTML.
+At that time, my friends and I only knew **HTML** and **frames** in HTML. We had no knowledge of CSS, JavaScript, or backend development. However, we were determined to build something interesting, so we created **CarInfo**, a simple yet effective website that showcases car details using just HTML.
 
 ---
 
